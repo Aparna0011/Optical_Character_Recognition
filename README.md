@@ -1,1 +1,1 @@
-# Optical_Character_Recognition
+Optical Character Recognition (OCR) is a technology used to extract text from images or scanned documents. This project leverages Tesseract OCR with OpenCV to process images, apply preprocessing techniques (grayscale, thresholding, noise removal), and accurately extract readable text.
